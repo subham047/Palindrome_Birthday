@@ -1,0 +1,55 @@
+body{
+    background-image: url("./happy-birthday-cupcake-glitter-colorful-background-candle-light-happy-birthday-cupcake-glitter-colorful-background-159872612.jpg");
+    background-repeat: no-repeat;
+}
+
+#container{
+    width: 600px;
+    text-align: center;
+    background: linear-gradient(60deg,rgb(177, 164, 164),rgb(155, 78, 145),red);
+    padding: 50px;
+    margin: auto;
+    margin-top: 90px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+h3{
+    /* background-color: gray; */
+    font-size: 30px;
+    color:aliceblue;
+    font-family: cursive;
+}
+
+#calender{
+    /* background-color: yellow; */
+    padding: 20px;
+}
+
+#birthday-input{
+    width: 250px;
+    height: 20px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#show-btn{
+    background-color: blue;
+    width: 90px;
+    height: 40px;
+    border-radius: 15px;
+    background:linear-gradient(30deg,rgb(76, 76, 129),rgb(26, 48, 145),rgb(45, 139, 139));
+    color: white;
+    font-size: 15px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+}
